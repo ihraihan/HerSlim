@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-FitnessFit built the Weight Loss for Women app as a Free app. This SERVICE is provided by FitnessFit at no cost and is intended for use as is.
+FitnessFit built the Weight Loss for Women app as a Freemium app. This SERVICE is provided by FitnessFit at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -17,8 +17,10 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 **Log Data**
 
@@ -57,8 +59,8 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-06-23
+This policy is effective as of 2023-10-15
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at iftikharhossain500@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at fitnessfitofficial@gmail.com.
